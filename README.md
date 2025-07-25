@@ -20,7 +20,7 @@ This portfolio showcases some of the dashboards I’ve built during my learning 
 ![Dashboard 5](5.jpg)  
 ![Dashboard 6](6.jpg)  
 ![Dashboard 7](7.jpg)
-
+- 📈 Worked as part of a team to analyze and visualize global sales data using Excel and Power Query. Contributed to both the data cleaning process and the creation of the final interactive dashboard.
 
 
 
