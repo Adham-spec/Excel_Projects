@@ -31,7 +31,8 @@ This portfolio showcases some of the dashboards I’ve built during my learning 
 
 #### 🚲 Bike Sales Dashboard
 
-[![Bike Sales Dashboard](project1_resized.jpg)](https://github.com/Adham-spec/Data-analyst-portfolio/blob/main/Screenshot%202025-06-20%20193315.png)
+![Dashboard 1](Screenshot 2025-06-16 233824.png)  
+
 
 - ⚙ *Technologies Used:* Excel 
 - 📊 A dashboard analyzing seasonal bike sales across customer types and product colors.
