@@ -11,7 +11,15 @@ This portfolio showcases some of the dashboards I’ve built during my learning 
 
 #### 🌍📈 Global Sales Dashboard
 
+## 📊 Global Sales Dashboard
 
+![Dashboard 1](1.jpg)  
+![Dashboard 2](2.jpg)  
+![Dashboard 3](3.jpg)  
+![Dashboard 4](4.jpg)  
+![Dashboard 5](5.jpg)  
+![Dashboard 6](6.jpg)  
+![Dashboard 7](7.jpg)
 
 
 
