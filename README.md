@@ -31,7 +31,7 @@ This portfolio showcases some of the dashboards I’ve built during my learning 
 
 #### 🚲 Bike Sales Dashboard
 
-![Dashboard 1](Screenshot 2025-06-16 233824.png)  
+![Dashboard 1]( 2025-06-16 233824.png)  
 
 
 - ⚙ *Technologies Used:* Excel 
