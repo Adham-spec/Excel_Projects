@@ -31,7 +31,7 @@ This portfolio showcases some of the dashboards I’ve built during my learning 
 
 #### 🚲 Bike Sales Dashboard
 
-![Dashboard 1]( 2025-06-16 233824.png)  
+![Dashboard 1](market.png)  
 
 
 - ⚙ *Technologies Used:* Excel 
@@ -43,7 +43,7 @@ This portfolio showcases some of the dashboards I’ve built during my learning 
 
 #### 🛒 Market Sales Dashboard
 
-[![Market Sales Dashboard](project2_resized.jpg)](https://github.com/Adham-spec/Data-analyst-portfolio/blob/main/Screenshot%202025-06-16%20233824.png)
+![Dashboard 1](bike.jpg) 
 
 - ⚙ *Technologies Used:* Excel  
 - 📈 A dashboard tracking total sales, profits, and monthly performance.
