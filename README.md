@@ -1,6 +1,6 @@
 
 
-## 📂 Excel Projects
+## Excel Projects
 
 
 
